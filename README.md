@@ -4,18 +4,38 @@
 
 ---
 
-### 📊 GitHub Stats Card
+### 📈 Activity Graph (WORKING ✓)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lukadfagundes&theme=github-compact&hide_border=true)
+
+---
+
+### 👀 Profile Views Counter (WORKING ✓)
+![Profile Views](https://komarev.com/ghpvc/?username=lukadfagundes&color=blue&style=flat-square)
+
+---
+
+### 🔥 GitHub Streak Stats (Updated URL)
+![GitHub Streak](https://streak-stats.demolab.com/?user=lukadfagundes&theme=dark&hide_border=true)
+
+---
+
+### 📊 GitHub Stats - Option 1 (github-readme-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukadfagundes&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ---
 
-### 💻 Most Used Languages
+### 📊 GitHub Stats - Option 2 (Alternative Service)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lukadfagundes&show_icons=true&theme=dark&hide_border=true)
+
+---
+
+### 💻 Most Used Languages - Option 1
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukadfagundes&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-### 🔥 GitHub Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lukadfagundes&theme=dark&hide_border=true)
+### 💻 Most Used Languages - Option 2 (Different Layout)
+![Top Langs Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=lukadfagundes&layout=donut&theme=dark&hide_border=true)
 
 ---
 
@@ -24,28 +44,26 @@
 
 ---
 
-### 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lukadfagundes&theme=github-compact&hide_border=true)
+### 🏆 GitHub Trophies - Alternative (Onedark Theme)
+![trophy](https://github-profile-trophy.vercel.app/?username=lukadfagundes&theme=onedark&column=4&margin-w=15&margin-h=15)
 
 ---
 
-### 👀 Profile Views Counter
-![Profile Views](https://komarev.com/ghpvc/?username=lukadfagundes&color=blue&style=flat-square)
+### 📊 Contribution Stats (Alternative Widget)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lukadfagundes&theme=tokyonight" alt="GitHub Streak Stats"/>
 
 ---
 
-### ⚡ Recent Activity (Alternative Stats View)
-![GitHub Stats Vertical](https://github-readme-stats.vercel.app/api?username=lukadfagundes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+### 🎯 GitHub Profile Summary Cards
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lukadfagundes&theme=github_dark)
 
 ---
 
-### 🎨 Different Theme Examples
+### 📈 Productivity Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lukadfagundes&theme=github_dark)
 
-#### Radical Theme
-![Stats Radical](https://github-readme-stats.vercel.app/api?username=lukadfagundes&show_icons=true&theme=radical&hide_border=true)
+---
 
-#### Dracula Theme
-![Stats Dracula](https://github-readme-stats.vercel.app/api?username=lukadfagundes&show_icons=true&theme=dracula&hide_border=true)
-
-#### Synthwave Theme
-![Stats Synthwave](https://github-readme-stats.vercel.app/api?username=lukadfagundes&show_icons=true&theme=synthwave&hide_border=true)
+### 💻 Language Stats (Summary Card)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lukadfagundes&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lukadfagundes&theme=github_dark)
