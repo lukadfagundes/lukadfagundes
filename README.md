@@ -109,7 +109,7 @@ I'm interested in opportunities where I can:
 - Collaborate with passionate engineers who love what they do
 
 **Open to:** Full-time roles, contract work, and freelance projects
-**Interested in:** Frontend, Backend, Full-Stack, and DevOps roles (no AI/ML)
+**Interested in:** Frontend, Backend, Full-Stack, and DevOps roles
 
 ---
 
